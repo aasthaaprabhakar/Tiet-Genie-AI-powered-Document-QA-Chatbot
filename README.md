@@ -5,7 +5,7 @@ An AI‑powered assistant for Thapar Institute that answers questions from uploa
 ---
 
 ## 🚀 Live Demo  
-👉 [Try it here](https://tiet-genie-gjminmpfjsp4vy3zvqm235.streamlit.app)  
+👉 [Try it here](https://tiet-genie-ai-powered-document-app-chatbot-ioq9chmb8cgppwcptvs.streamlit.app/)  
 ---
 
 ## ⚙️ Features  
